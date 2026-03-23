@@ -5,7 +5,7 @@
     <link>https://twiksoid.github.io/Homier/</link>
     <description>Оповещения для жильцов дома</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:20:00 +0000</lastBuildDate>
 
     <item>
       <title>Собрание жильцов</title>
@@ -14,7 +14,7 @@
       ]]></description>
       <pubDate>Mon, 23 Mar 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">meeting-2026-03-30</guid>
-      <link>https://twiksoid.github.io/Homier/#meeting-2026-03-30</link>
+      <link>https://twiksoid.github.io/Homier/meeting-2026-03-30</link>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       ]]></description>
       <pubDate>Mon, 23 Mar 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">water-2026-03-25</guid>
-      <link>https://twiksoid.github.io/Homier/#water-2026-03-25</link>
+      <link>https://twiksoid.github.io/Homier/water-2026-03-25</link>
     </item>
 
     <item>
@@ -34,7 +34,7 @@
       ]]></description>
       <pubDate>Sun, 22 Mar 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">meeting-2026-03-28</guid>
-      <link>https://twiksoid.github.io/Homier/#meeting-2026-03-28</link>
+      <link>https://twiksoid.github.io/Homier/meeting-2026-03-28</link>
     </item>
 
   </channel>
