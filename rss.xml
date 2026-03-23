@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>Новости дома</title>
-    <link>https://example.com/house-news</link>
+    <link>https://twiksoid.github.io/Homier/</link>
     <description>Оповещения для жильцов дома</description>
     <language>ru</language>
     <lastBuildDate>Mon, 23 Mar 2026 10:00:00 +0000</lastBuildDate>
 
-    <!-- Новость 1 -->
     <item>
       <title>Отключение горячей воды</title>
-      <description>
-        25 марта с 10:00 до 14:00 будет отключена горячая вода в связи с работами.
-      </description>
+      <description><![CDATA[
+25 марта с 10:00 до 14:00 будет отключена горячая вода в связи с работами.
+      ]]></description>
       <pubDate>Mon, 23 Mar 2026 09:00:00 +0000</pubDate>
-      <guid>water-2026-03-25</guid>
+      <guid isPermaLink="false">water-2026-03-25</guid>
+      <link>https://twiksoid.github.io/Homier/#water-2026-03-25</link>
     </item>
 
-    <!-- Новость 2 -->
     <item>
       <title>Собрание жильцов</title>
-      <description>
-        28 марта в 19:00 состоится собрание жильцов во дворе дома.
-      </description>
+      <description><![CDATA[
+28 марта в 19:00 состоится собрание жильцов во дворе дома.
+      ]]></description>
       <pubDate>Sun, 22 Mar 2026 18:00:00 +0000</pubDate>
-      <guid>meeting-2026-03-28</guid>
+      <guid isPermaLink="false">meeting-2026-03-28</guid>
+      <link>https://twiksoid.github.io/Homier/#meeting-2026-03-28</link>
     </item>
 
   </channel>
