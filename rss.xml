@@ -5,7 +5,17 @@
     <link>https://twiksoid.github.io/Homier/</link>
     <description>Оповещения для жильцов дома</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:45:00 +0000</lastBuildDate>
+
+      <item>
+      <title>Тестовый вариант для проверки скорости обновления ленты</title>
+      <description><![CDATA[
+24 марта необходимо проверить системы озвучки событий в 21:00.
+      ]]></description>
+      <pubDate>Mon, 23 Mar 2026 11:40:00 +0000</pubDate>
+      <guid isPermaLink="false">meeting-2026-03-24</guid>
+      <link>https://twiksoid.github.io/Homier/test-put-2026-03-24</link>
+    </item>
 
     <item>
       <title>Собрание жильцов</title>
