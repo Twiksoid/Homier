@@ -5,8 +5,16 @@
     <link>https://twiksoid.github.io/Homier/</link>
     <description>Оповещения для жильцов дома</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:50:00 +0000</lastBuildDate>
-
+    <lastBuildDate>Sat, 28 Mar 2026 20:30:00 +0000</lastBuildDate>
+      <item>
+      <title>Првоерка автообновления ленты в приложении Unread</title>
+      <description><![CDATA[
+28 марта проверяем работу автоматических обновлений.
+      ]]></description>
+      <pubDate>Sat, 28 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">test-unread-app-2026-03-28</guid>
+      <link>https://twiksoid.github.io/Homier/test-unread-app-2026-03-28</link>
+    </item>
       <item>
       <title>Тестовый вариант для проверки скорости обновления ленты</title>
       <description><![CDATA[
