@@ -14,6 +14,20 @@
       color: #222;
     }
 
+    .header {
+      text-align: center;
+      margin: 40px 0 10px 0;
+    }
+
+    .header h1 {
+      font-size: 20px;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: #666;
+    }
+
     .container {
       display: flex;
       max-width: 1100px;
@@ -107,6 +121,12 @@
 
 <body>
 
+  <!-- Заголовок страницы -->
+  <div class="header">
+  <h1>Новости дома</h1>
+  <!-- <div class="subtitle">Актуальные объявления и уведомления</div> -->
+  </div>
+    
   <div class="container">
 
     <!-- ЛЕВАЯ КОЛОНКА -->
@@ -131,9 +151,6 @@
 
     <!-- ЦЕНТР -->
     <div class="main">
-      <h1>Новости дома</h1>
-   <!--    <div class="subtitle">Актуальные объявления и уведомления</div> -->
-
       <div id="news" class="block">
         <div class="loading">Загрузка новостей...</div>
       </div>
@@ -142,9 +159,9 @@
     <!-- ПРАВАЯ КОЛОНКА -->
     <div class="sidebar">
       <div class="block">
-        <div class="label">Управляющая компания</div>
+        <div class="label">Управляющая компания:</div>
 
-        <p><b>УК ООО "ПРБК-Сервис"</b></p>
+        <p><b>ООО "ПРБК-Сервис"</b></p>
 
         <p><b>Адрес:</b><br>
         г. Калининград, ул. Колхозная, д. 17</p>
