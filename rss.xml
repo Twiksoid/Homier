@@ -5,54 +5,46 @@
     <link>https://twiksoid.github.io/Homier/</link>
     <description>Оповещения для жильцов дома</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 28 Mar 2026 20:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 20:50:00 +0000</lastBuildDate>
       <item>
-      <title>Првоерка автообновления ленты в приложении Unread</title>
+      <title>Проверка газового оборудования</title>
       <description><![CDATA[
-28 марта проверяем работу автоматических обновлений.
+16 апреля с 08:00 до 17:00 состоится проверка газового обрудования внутри квартир.
       ]]></description>
       <pubDate>Sat, 28 Mar 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">test-unread-app-2026-03-28</guid>
-      <link>https://twiksoid.github.io/Homier/test-unread-app-2026-03-28</link>
+      <guid isPermaLink="false">gas-check-16042026</guid>
+      <link>https://twiksoid.github.io/Homier/gas-check-16042026.html</link>
     </item>
-      <item>
-      <title>Тестовый вариант для проверки скорости обновления ленты</title>
-      <description><![CDATA[
-24 марта необходимо проверить системы озвучки событий в 21:00.
-      ]]></description>
-      <pubDate>Mon, 23 Mar 2026 11:40:00 +0000</pubDate>
-      <guid isPermaLink="false">test-put-2026-03-24</guid>
-      <link>https://twiksoid.github.io/Homier/test-put-2026-03-24</link>
-    </item>
-
     <item>
-      <title>Собрание жильцов</title>
+      <title>Проверка газового оборудования</title>
       <description><![CDATA[
-30 марта в 21:00 состоится собрание жильцов во дворе дома.
+27 февраля с 08:00 до 17:00 состоится проверка газового обрудования внутри квартир.
       ]]></description>
       <pubDate>Mon, 23 Mar 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">meeting-2026-03-30</guid>
-      <link>https://twiksoid.github.io/Homier/meeting-2026-03-30</link>
+      <guid isPermaLink="false">gas-check-27022026</guid>
+      <link>https://twiksoid.github.io/Homier/gas-check-27022026.html</link>
     </item>
     
     <item>
-      <title>Отключение горячей воды</title>
+      <title>Правила режима тишины в Калиниграде</title>
       <description><![CDATA[
-25 марта с 10:00 до 14:00 будет отключена горячая вода в связи с работами.
+Правила режима тишины в Калиниграде.
       ]]></description>
       <pubDate>Mon, 23 Mar 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">water-2026-03-25</guid>
-      <link>https://twiksoid.github.io/Homier/water-2026-03-25</link>
+      <guid isPermaLink="false">still-hours</guid>
+      <link>https://twiksoid.github.io/Homier/still-hours.html</link>
     </item>
 
     <item>
-      <title>Собрание жильцов</title>
+      <title>Номера телефонов для открытия шлагбаумов</title>
       <description><![CDATA[
-28 марта в 19:00 состоится собрание жильцов во дворе дома.
+Номера телефонов для открытия шлагбаумов: 
+ул. Коммунистическая 26 - тел. 89210056837, 
+ул. Коммунистическая 24 , Минусинская 3 - тел. 89210086822.
       ]]></description>
       <pubDate>Sun, 22 Mar 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">meeting-2026-03-28</guid>
-      <link>https://twiksoid.github.io/Homier/meeting-2026-03-28</link>
+      <guid isPermaLink="false">road-way-phone.html</guid>
+      <link>https://twiksoid.github.io/Homier/road-way-phone.html</link>
     </item>
 
   </channel>
